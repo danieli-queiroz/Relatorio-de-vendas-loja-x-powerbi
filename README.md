@@ -56,12 +56,14 @@ O arquivo JSON utilizado nesse projeto se encontra com o nome de theme.json ness
 - **VSCode (código jason para paleta de cores)**
 - **Storytelling com Dados**
 
+
 ---
 
 ## 📂 Estrutura do Repositório
-├── /imagens -> screenshots do dashboard  
-├── Analise-vendas.pbix -> arquivo do Power BI  
+├── Relatório_de_vendas_loja_x-DanieliQueiroz.pbix -> arquivo do Power BI  
+├── Relatório_em_png -> screenshot do dashboard   
 ├── theme.json -> arquivo com o tema e paleta de cores utilizadas  
+├── dataset_loja_x -> arquivo com dataset fictício que criei e utilizei  
 └── README.md -> documentação do projeto
 
 
@@ -69,8 +71,8 @@ O arquivo JSON utilizado nesse projeto se encontra com o nome de theme.json ness
 
 ## • Produzido por:
 Projeto desenvolvido por **Danieli Queiroz**.  
-Focado em **Análise de Dados**, **BI** e **Visualização Interativa**.
-Linkedln: https://www.linkedin.com/in/danieli-queirozprofissional/
+Focado em **Análise de Dados**, **BI** e **Visualização Interativa**.  
+Linkedln: https://www.linkedin.com/in/danieli-queirozprofissional/  
 Obs: Me disponho a tirar qualquer dúvidas, além de sempre aceitar ideias para melhorias :)
 
 ---
