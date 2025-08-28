@@ -61,6 +61,8 @@ O dashboard utiliza uma paleta **moderna e profissional**, pensada para transmit
   "neutral": "#B6AA96",
   "good": "#52A799"
 }
+
+
 ---
 
 ## 🔹 Tecnologias Utilizadas
