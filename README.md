@@ -11,7 +11,8 @@ O objetivo é demonstrar minhas habilidades em **análise de dados**, **visualiz
 - Desenvolver um dashboard interativo para análise de negócios.
 - Demonstrar boas práticas em design de dashboards e storytelling com dados.
 
-![Dashboard Power BI](images/Relatório_em_png.png)
+<img width="1319" height="759" alt="image" src="https://github.com/user-attachments/assets/35946999-7540-4175-b52c-5dc4c4223163" />
+
 
 
 ---
