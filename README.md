@@ -59,9 +59,9 @@ O arquivo JSON utilizado nesse projeto se encontra com o nome de theme.json ness
 ---
 
 ## 📂 Estrutura do Repositório
-├── /imagens -> screenshots do dashboard
-├── Analise-vendas.pbix -> arquivo do Power BI
-├── theme.json -> arquivo com o tema e paleta de cores utilizadas
+├── /imagens -> screenshots do dashboard  
+├── Analise-vendas.pbix -> arquivo do Power BI  
+├── theme.json -> arquivo com o tema e paleta de cores utilizadas  
 └── README.md -> documentação do projeto
 
 
