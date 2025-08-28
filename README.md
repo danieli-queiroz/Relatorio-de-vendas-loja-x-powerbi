@@ -44,8 +44,7 @@ O objetivo é demonstrar minhas habilidades em **análise de dados**, **visualiz
 ---
 
 ## 🔹 Design e Paleta de Cores
-O dashboard utiliza uma paleta **moderna e profissional**, pensada para transmitir clareza e objetividade. Utilizei um arquivo JSON extraido da do próprio site da Microsoft, onde la oferece modelos de paletas em que podemos utilizar.
-O arquivo JSON utilizado nesse projeto se encontra com o nome de theme.json nesse repoositório para sua exploração
+O relatório utiliza uma paleta moderna e profissional, desenvolvida para transmitir clareza e objetividade. Foi utilizado um arquivo JSON extraído do próprio site da Microsoft, que oferece modelos de paletas disponíveis para uso. O arquivo JSON utilizado neste projeto está presente no repositório com o nome theme.json, disponível para consulta e exploração.
 
 ---
 
