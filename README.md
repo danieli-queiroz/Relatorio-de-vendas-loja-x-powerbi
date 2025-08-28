@@ -43,25 +43,8 @@ O objetivo é demonstrar minhas habilidades em **análise de dados**, **visualiz
 ---
 
 ## 🔹 Design e Paleta de Cores
-O dashboard utiliza uma paleta **moderna e profissional**, pensada para transmitir clareza e objetividade.  
-
-- **Paleta personalizada:**  
-```json
-{
-  "name": "Custom",
-  "dataColors": [
-    "#52A799","#7D82A7","#AE8A89","#FF6A64","#B6AA96","#424242",
-    "#E4E4E4","#292929","#3599B8","#DFBFBF","#4AC5BB","#5F6B6D",
-    "#FB8281","#F4D25A","#7F898A","#A4DDEE","#FDAB89","#B687AC",
-    "#28738A","#A78F8F","#168980","#293537","#BB4A4A","#B59525",
-    "#475052","#6A9FB0","#BD7150","#7B4F71","#1B4D5C","#706060",
-    "#0F5C55","#1C2325"
-  ],
-  "bad": "#FF6A64",
-  "neutral": "#B6AA96",
-  "good": "#52A799"
-}
-
+O dashboard utiliza uma paleta **moderna e profissional**, pensada para transmitir clareza e objetividade. Utilizei um arquivo JSON extraido da do próprio site da Microsoft, onde la oferece modelos de paletas em que podemos utilizar.
+O arquivo JSON utilizado nesse projeto se encontra com o nome de theme.json nesse repoositório para sua exploração
 
 ---
 
